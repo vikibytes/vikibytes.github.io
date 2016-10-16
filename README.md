@@ -1,1 +1,1 @@
-##This is my first github.io page :)
+![Title Image](/images/title.png)
